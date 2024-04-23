@@ -15,9 +15,6 @@ int main() {
 #endif
     printf("enet proxy by ama\n");
 
-    std::thread http(http::run, "127.0.0.1", "17191");
-    http.detach();
-    printf("HTTP server is running.\n");
 
     enet_initialize();
     if (g_server->start()) {
