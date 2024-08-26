@@ -1,4 +1,4 @@
-# Growtopia enet proxy edited by Nubiza#0790
+# Growtopia enet proxy edited by nubiza.
 *if you want Re-Edit this proxy please dont delete credits 
 
 ## Don't add me in discord for help with compiling/adding feature/some simple thing with proxy
